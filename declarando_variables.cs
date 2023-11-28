@@ -12,6 +12,11 @@ namespace MyCompiler {
             Console.WriteLine("Se declararon dos variables la variable num1 contiene:" + num1);
             Console.WriteLine(" y la variable num2 contiene: " + num2);
             Console.WriteLine("Ademas la suma es: " +  suma);
+
+            //declaramos nuevas variables
+            string nombre;
+            nombre="Juan Perez";
+            Console.WriteLine("Su nombre es: "+ nombre);
         }
     }
 }
