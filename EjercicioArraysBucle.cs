@@ -3,6 +3,7 @@ using System;
 namespace MyCompiler {
     class Program {
         public static void Main(string[] args) {
+        //autor: Danny Castilla 28.11.2023 21:30
            // Console.WriteLine("Hello world!");        
            //declarando un array Multidimensional
            //Mostrar las notas y el promedio de una alumno
